@@ -1,2 +1,2 @@
 # rxJavaBasics
-you will find some core basic touchup
+Here, you will find some basic idea of Reactive Java Programming.
