@@ -7,7 +7,7 @@ import io.reactivex.Observable;
 public class ComparableInterfaceConcepts {
 
 	public static void main(String[] args) {
-/*		
+ 		
 		Observable<String> source =Observable.create(emitter ->
 		{
 			
@@ -18,7 +18,7 @@ public class ComparableInterfaceConcepts {
 		});
 		
 		source.subscribe(System.out::println);
-	}*/
+	 
 // second alternative way 
 	
 	Observable<Student> obser= Observable.create(emitter ->{
